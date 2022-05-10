@@ -1,0 +1,4 @@
+edu\miu\cs\cs425\arrayutils\arrayflattener\ArrayFlattener.class
+edu\miu\cs\cs425\arrayutils\arrayreversor\service\ArrayFlattenerService.class
+edu\miu\cs\cs425\arrayutils\arrayreversor\ArrayReversor.class
+edu\miu\cs\cs425\App.class
